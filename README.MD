@@ -1,2 +1,4 @@
+# Factorio 1.1.10 GitHub repo
 - Start ANgelBob Default Factorio 1.1.10 with Mods/AngelBob_1.3.5 listed mods
-- Archive old cheva/Factorio repo in cheva.git.7z# Factorio GitHub repo 
+- Archive old cheva/Factorio repo in cheva.git.7z
+
