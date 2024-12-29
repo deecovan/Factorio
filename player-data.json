@@ -1,0 +1,828 @@
+
+{
+  "available-campaign-levels": 
+  {
+    "tight-spot": 
+    {
+      "level-01": "hard"
+    },
+    "transport-belt-madness": 
+    {
+      "level-01": "hard"
+    },
+    "tutorial": 
+    {
+      "level-01": "hard",
+      "level-02": "normal",
+      "level-03": "normal",
+      "level-04": "normal"
+    }
+  },
+  "tips": 
+  {
+    "introduction": 
+    {
+      "status": "completed"
+    },
+    "show-info": 
+    {
+      "status": "completed"
+    },
+    "e-confirm": 
+    {
+      "status": "completed"
+    },
+    "clear-cursor": 
+    {
+      "status": "completed"
+    },
+    "pipette": 
+    {
+      "status": "completed"
+    },
+    "stack-transfers": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "entity-transfers": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "z-dropping": 
+    {
+      "status": "completed"
+    },
+    "shoot-targeting-controller": 
+    {
+      "status": "suggested"
+    },
+    "bulk-crafting": 
+    {
+      "status": "completed"
+    },
+    "rotating-assemblers": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ]
+    },
+    "circuit-network": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "elapsed": 0
+        }
+      ]
+    },
+    "inserters": 
+    {
+      "status": "completed"
+    },
+    "burner-inserter-refueling": 
+    {
+      "status": "completed"
+    },
+    "long-handed-inserters": 
+    {
+      "status": "completed"
+    },
+    "move-between-labs": 
+    {
+      "status": "completed"
+    },
+    "insertion-limits": 
+    {
+      "status": "completed"
+    },
+    "limit-chests": 
+    {
+      "status": "completed"
+    },
+    "transport-belts": 
+    {
+      "status": "completed"
+    },
+    "belt-lanes": 
+    {
+      "status": "completed"
+    },
+    "splitters": 
+    {
+      "status": "completed"
+    },
+    "splitter-filters": 
+    {
+      "status": "locked"
+    },
+    "underground-belts": 
+    {
+      "status": "completed"
+    },
+    "angels-ore-generation": 
+    {
+      "status": "suggested"
+    },
+    "angels-ore-refining": 
+    {
+      "status": "suggested"
+    },
+    "angels-crushing": 
+    {
+      "status": "suggested"
+    },
+    "angels-floatation": 
+    {
+      "status": "locked"
+    },
+    "angels-leaching": 
+    {
+      "status": "locked"
+    },
+    "angels-purification": 
+    {
+      "status": "locked"
+    },
+    "angels-ore-sorting": 
+    {
+      "status": "unlocked"
+    },
+    "angels-water-processing": 
+    {
+      "status": "unlocked"
+    },
+    "angelsaddons-cab": 
+    {
+      "status": "locked"
+    },
+    "angelsaddons-mobility": 
+    {
+      "status": "locked"
+    },
+    "angelsaddons-storage": 
+    {
+      "status": "locked"
+    },
+    "angels-petrochem": 
+    {
+      "status": "suggested"
+    },
+    "angels-air-filtering": 
+    {
+      "status": "locked"
+    },
+    "angelsbioprocessing": 
+    {
+      "status": "suggested"
+    },
+    "bio-nauvis-1": 
+    {
+      "status": "locked"
+    },
+    "bio-nauvis-1a": 
+    {
+      "status": "locked"
+    },
+    "bio-nauvis-1b": 
+    {
+      "status": "locked"
+    },
+    "bio-nauvis-1c": 
+    {
+      "status": "locked"
+    },
+    "bio-vegetables-1": 
+    {
+      "status": "locked"
+    },
+    "bio-vegetables-1a": 
+    {
+      "status": "locked"
+    },
+    "bio-vegetables-1b": 
+    {
+      "status": "locked"
+    },
+    "bio-animals-1": 
+    {
+      "status": "locked"
+    },
+    "angelsexploration": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "elapsed": 39655
+        }
+      ]
+    },
+    "shoot-targeting": 
+    {
+      "status": "completed"
+    },
+    "angels-native-inhabitants": 
+    {
+      "status": "suggested"
+    },
+    "angels-native-inhabitants-spawner[biter-spawner]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[small-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[medium-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[big-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[behemoth-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[colossal-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-spawner[scarab-spawner]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[small-scarab]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[medium-scarab]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[big-scarab]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[behemoth-scarab]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[colossal-scarab]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-spawner[spitter-spawner]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[small-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[medium-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[big-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[behemoth-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[colossal-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-spawner[psyker-spawner]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[small-psyker]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[medium-psyker]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[big-psyker]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[behemoth-psyker]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[colossal-psyker]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-spawner[bob-biter-spawner]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-huge-acid-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-huge-explosive-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-big-piercing-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-giant-fire-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-giant-poison-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-titan-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-behemoth-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-leviathan-biter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-spawner[bob-spitter-spawner]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-huge-acid-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-huge-explosive-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-big-electric-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-giant-poison-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-giant-fire-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-titan-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-behemoth-spitter]": 
+    {
+      "status": "locked"
+    },
+    "angels-native-inhabitants-unit[bob-leviathan-spitter]": 
+    {
+      "status": "locked"
+    },
+    "electric-network": 
+    {
+      "status": "completed"
+    },
+    "steam-power": 
+    {
+      "status": "completed"
+    },
+    "electric-pole-connections": 
+    {
+      "status": "completed"
+    },
+    "low-power": 
+    {
+      "status": "locked"
+    },
+    "connect-switch": 
+    {
+      "status": "locked"
+    },
+    "copy-entity-settings": 
+    {
+      "status": "completed"
+    },
+    "copy-entity-settings-controller": 
+    {
+      "status": "suggested"
+    },
+    "copy-paste-trains": 
+    {
+      "status": "locked"
+    },
+    "copy-paste-filters": 
+    {
+      "status": "locked"
+    },
+    "copy-paste-requester-chest": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ]
+    },
+    "copy-paste-spidertron": 
+    {
+      "status": "locked"
+    },
+    "drag-building": 
+    {
+      "status": "completed"
+    },
+    "drag-building-poles": 
+    {
+      "status": "completed"
+    },
+    "pole-dragging-coverage": 
+    {
+      "status": "completed"
+    },
+    "drag-building-underground-belts": 
+    {
+      "status": "completed"
+    },
+    "fast-belt-bending": 
+    {
+      "status": "completed"
+    },
+    "fast-obstacle-traversing": 
+    {
+      "status": "completed"
+    },
+    "trains": 
+    {
+      "status": "locked"
+    },
+    "rail-building": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ]
+    },
+    "train-stops": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "conditions": 
+          [
+            
+            {},
+            
+            {}
+          ]
+        }
+      ]
+    },
+    "rail-signals-basic": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "conditions": 
+          [
+            
+            {},
+            
+            {}
+          ]
+        }
+      ]
+    },
+    "rail-signals-advanced": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ]
+    },
+    "gate-over-rail": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "count": 48
+        },
+        
+        {}
+      ]
+    },
+    "pump-connection": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "conditions": 
+          [
+            
+            {},
+            
+            {}
+          ]
+        }
+      ]
+    },
+    "train-stop-same-name": 
+    {
+      "status": "locked"
+    },
+    "logistic-network": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {}
+      ]
+    },
+    "personal-logistics": 
+    {
+      "status": "locked"
+    },
+    "construction-robots": 
+    {
+      "status": "locked"
+    },
+    "passive-provider-chest": 
+    {
+      "status": "dependencies-not-met"
+    },
+    "storage-chest": 
+    {
+      "status": "dependencies-not-met"
+    },
+    "requester-chest": 
+    {
+      "status": "locked"
+    },
+    "active-provider-chest": 
+    {
+      "status": "locked"
+    },
+    "buffer-chest": 
+    {
+      "status": "locked"
+    },
+    "ghost-building": 
+    {
+      "status": "locked",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "ghost-rail-planner": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {
+          "conditions": 
+          [
+            
+            {},
+            
+            {},
+            
+            {}
+          ]
+        },
+        
+        {}
+      ]
+    },
+    "copy-paste": 
+    {
+      "status": "locked",
+      "conditions": 
+      [
+        
+        {},
+        
+        {
+          "elapsed": 0
+        }
+      ]
+    },
+    "fast-replace": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-direction": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-belt-splitter": 
+    {
+      "status": "locked",
+      "skip_status": 
+      {
+        "conditions": 
+        [
+          
+          {},
+          
+          {}
+        ]
+      }
+    },
+    "fast-replace-belt-underground": 
+    {
+      "status": "locked",
+      "count": 8
+    }
+  },
+  "console-history": 
+  [
+    "fps",
+    "/fps",
+    "/h",
+    "/reset-tips",
+    "/config",
+    "/perf-avg-frames"
+  ],
+  "last-played": 
+  {
+    "type": "single-player",
+    "save-name": "AngelBob Default"
+  },
+  "service-username": "",
+  "service-token": "",
+  "shortcut-bar": 
+  [
+    
+    {
+      "name": "toggle-alt-mode",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "undo",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "copy",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "cut",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "paste",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "import-string",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-blueprint",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-blueprint-book",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-deconstruction-planner",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "give-upgrade-planner",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "toggle-personal-roboport",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "toggle-equipment-movement-bonus",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "toggle-ghosting",
+      "docked": false,
+      "enabled": false
+    }
+  ],
+  "editor-lua-snippets": 
+  [
+    
+    {
+      "name": "Example (Turn trees into biters)",
+      "code": "local surface = game.player.surface\nlocal entities = surface.find_entities_filtered{area = area, type = 'tree'}\nfor k, tree in pairs(entities) do\n  local position = tree.position\n  tree.destroy()\n  surface.create_entity{name = 'small-biter', position = position}\nend"
+    }
+  ],
+  "last-played-version": 
+  {
+    "game_version": "1.1.110",
+    "build_version": 62357,
+    "build_mode": "full",
+    "platform": "win64"
+  },
+  "blueprint-view": "grid",
+  "main-menu-simulations-played": 
+  [
+    "oil_pumpjacks",
+    "spider_ponds",
+    "biter_base_spidertron",
+    "oil_refinery",
+    "artillery",
+    "lab",
+    "biter_base_artillery",
+    "early_smelting",
+    "big_defense",
+    "biter_base_player_attack",
+    "train_junction",
+    "mining_defense"
+  ]
+}
