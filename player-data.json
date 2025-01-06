@@ -225,7 +225,7 @@
         {},
         
         {
-          "elapsed": 39655
+          "elapsed": 187107
         }
       ]
     },
@@ -709,7 +709,7 @@
   "last-played": 
   {
     "type": "single-player",
-    "save-name": "AngelBob Default"
+    "save-name": "_autosave1"
   },
   "service-username": "",
   "service-token": "",
