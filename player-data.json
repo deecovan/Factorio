@@ -130,15 +130,15 @@
     },
     "angels-ore-generation": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "angels-ore-refining": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "angels-crushing": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "angels-floatation": 
     {
@@ -154,11 +154,11 @@
     },
     "angels-ore-sorting": 
     {
-      "status": "unlocked"
+      "status": "completed"
     },
     "angels-water-processing": 
     {
-      "status": "unlocked"
+      "status": "completed"
     },
     "angelsaddons-cab": 
     {
@@ -174,7 +174,7 @@
     },
     "angels-petrochem": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "angels-air-filtering": 
     {
@@ -182,15 +182,15 @@
     },
     "angelsbioprocessing": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "bio-nauvis-1": 
     {
-      "status": "locked"
+      "status": "suggested"
     },
     "bio-nauvis-1a": 
     {
-      "status": "locked"
+      "status": "suggested"
     },
     "bio-nauvis-1b": 
     {
@@ -218,16 +218,7 @@
     },
     "angelsexploration": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {},
-        
-        {
-          "elapsed": 187107
-        }
-      ]
+      "status": "completed"
     },
     "shoot-targeting": 
     {
@@ -235,7 +226,7 @@
     },
     "angels-native-inhabitants": 
     {
-      "status": "suggested"
+      "status": "completed"
     },
     "angels-native-inhabitants-spawner[biter-spawner]": 
     {
@@ -243,7 +234,7 @@
     },
     "angels-native-inhabitants-unit[small-biter]": 
     {
-      "status": "locked"
+      "status": "completed"
     },
     "angels-native-inhabitants-unit[medium-biter]": 
     {
@@ -704,12 +695,15 @@
     "/h",
     "/reset-tips",
     "/config",
-    "/perf-avg-frames"
+    "/perf-avg-frames",
+    "game.evolutionfactor",
+    "/game.evolutionfactor",
+    "game.evolutionfactor=1;"
   ],
   "last-played": 
   {
     "type": "single-player",
-    "save-name": "_autosave1"
+    "save-name": "AngelBob TrainWorld Go Ahead"
   },
   "service-username": "",
   "service-token": "",
